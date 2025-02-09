@@ -26,10 +26,10 @@ Welcome to my GitHub profile! I am passionate about coding, technology, and cont
 
 ## 🌟 Top Repositories
 
-![ReadMe Card]
+[![ReadMe Card]
 (https://github-readme-stats.vercel.app/api/pin/?username=Thasniem&repo=product_deploy&theme=radical)https://github.com/Thasniem/product_deploy
 
-![ReadMe Card]
+[![ReadMe Card]
 (https://github-readme-stats.vercel.app/api/pin/?username=Thasniem&repo=AICTE-Thasniem-Fathima&theme=radical)https://github.com/Thasniem/AICTE-Thasniem-Fathima
 
 ## 📫 Connect with Me
