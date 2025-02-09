@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I am passionate about coding, technology, and cont
 
 ## 🌟 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thasniem&repo=your-repo-name&theme=radical)](https://github.com/Thasniem/your-repo-name)
+[![ReadMe Card]https://github.com/Thasniem/product_deploy
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thasniem&repo=another-repo-name&theme=radical)](https://github.com/Thasniem/another-repo-name)
 
 ## 📫 Connect with Me
